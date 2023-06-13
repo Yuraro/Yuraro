@@ -21,6 +21,8 @@ Aspiring Front-end Developer with 10 months of coding experience. Passionate and
 
 #
 
+![Programming](https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2831&q=80)
+
 <!--
 **Yuraro/Yuraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
