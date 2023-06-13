@@ -18,6 +18,7 @@ Aspiring Front-end Developer with 10 months of coding experience. Passionate and
 <img align="left" alt="Webpack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
 
 <br />
+<br />
 
 ---
 
