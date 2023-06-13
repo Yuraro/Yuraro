@@ -16,8 +16,10 @@ Aspiring Front-end Developer with 10 months of coding experience. Passionate and
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Parcel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/parcel/parcel-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Parcel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/parcel/parcel-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Webpack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
+
+<br />
 
 <!--
 **Yuraro/Yuraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
