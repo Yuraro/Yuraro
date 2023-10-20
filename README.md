@@ -2,7 +2,7 @@
 
 **`Digital Craftsman(Front-end Developer)`**
 
-Aspiring Front-end Developer with 10 months of coding experience. Passionate and continuously expanding my knowledge in coding. Completed multiple projects, gaining valuable skills and enhancing my expertise in the field. Committed to growth and driven to excel. Seeking new challenges to further advance my career as a top-tier Front-end Developer. Let's connect and create something remarkable!
+Aspiring Front-end Developer with 1 year of coding experience. Passionate and continuously expanding my knowledge in coding. Completed multiple projects, gaining valuable skills and enhancing my expertise in the field. Committed to growth and driven to excel. Seeking new challenges to further advance my career as a top-tier Front-end Developer. Let's connect and create something remarkable!
 
 ---
 
